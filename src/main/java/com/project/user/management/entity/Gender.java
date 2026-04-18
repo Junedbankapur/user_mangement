@@ -1,4 +1,4 @@
-package project.com.user.management.entity;
+package com.project.user.management.entity;
 
 public enum Gender {
    MALE,
